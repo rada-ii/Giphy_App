@@ -139,11 +139,12 @@ footer {
   background-color: #1e7ee5;
   color: #f7f7f7;
   font-weight: 400;
-  width: 97%;
+  width: 100;
   padding: 10px;
   bottom: 0;
 }
 
 footer {
-  position: fixed;
+  position: sticky;
+  bottom: 0;
 }
