@@ -1,8 +1,8 @@
-/* * {
+* {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-} */
+}
 
 .app {
   display: flex;
@@ -102,6 +102,7 @@ footer {
   width: 100%;
   display: flex;
   flex-direction: column;
+  /* margin: 1rem; */
 }
 
 .logo {
@@ -111,6 +112,7 @@ footer {
   padding: 10px;
   /* padding-left: 70px; */
   font-size: 20px;
+  margin-bottom: 10px;
 }
 
 .title-input {
@@ -118,6 +120,7 @@ footer {
   font-weight: 400;
   color: #707070;
   text-align: center;
+  margin-bottom: 10px;
 }
 
 .input {
@@ -136,5 +139,11 @@ footer {
   background-color: #1e7ee5;
   color: #f7f7f7;
   font-weight: 400;
-  padding: 0 10px;
+  width: 97%;
+  padding: 10px;
+  bottom: 0;
+}
+
+footer {
+  position: fixed;
 }
