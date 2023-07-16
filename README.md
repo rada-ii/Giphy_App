@@ -1,16 +1,21 @@
 checkout live:
 https://giphy-app-ten.vercel.app/
+#
 
+This is a React web application for browsing Giphys from API endpoint !
 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
+### `npm i`
+or
+### `npm install`
 In the project directory, you can run:
 
 ### `npm start`
+
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
