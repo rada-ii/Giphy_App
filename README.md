@@ -4,7 +4,7 @@ A React web application for browsing and searching GIFs using the Giphy API. Dis
 
 ## 🚀 Live Demo
 
-<a href="https://giphy-app-ten.vercel.app/" target="_blank">🌐Live Demo</a>
+<a href="https://giphy-app-ten.vercel.app/" target="_blank">🌐 Live Demo</a>
 
 ## ✨ Features
 
